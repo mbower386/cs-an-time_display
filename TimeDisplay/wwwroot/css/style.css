@@ -6,8 +6,11 @@
 
 .time-display {
     width: 40%;
+    height: 10%;
     margin: 2% auto;
-    padding: 2%;
-    vertical-align: middle;
     border: 2px solid black;
+}
+
+.time-text {
+    transform: translate(0%, 15%);
 }
